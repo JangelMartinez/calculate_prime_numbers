@@ -12,3 +12,7 @@ Use as premise one array with first two prime numbers [2, 3] to find out other p
 - calculates up to half the number currently calculated
 - calculate the elapsed time
 
+## Example
+
+![Example](./img/example.png)
+
